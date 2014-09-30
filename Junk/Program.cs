@@ -17,7 +17,7 @@ namespace Junk
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
 
-            // my change again
+            // my change again and again
         }
     }
 }
