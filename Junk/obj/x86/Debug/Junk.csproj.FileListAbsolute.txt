@@ -1,0 +1,6 @@
+c:\TestRepository\Junk\bin\Debug\Junk.exe
+c:\TestRepository\Junk\bin\Debug\Junk.pdb
+c:\TestRepository\Junk\obj\x86\Debug\Junk.Properties.Resources.resources
+c:\TestRepository\Junk\obj\x86\Debug\Junk.csproj.GenerateResource.Cache
+c:\TestRepository\Junk\obj\x86\Debug\Junk.exe
+c:\TestRepository\Junk\obj\x86\Debug\Junk.pdb
